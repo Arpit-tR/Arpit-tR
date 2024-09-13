@@ -56,6 +56,8 @@ My Top 3 Things
 	</a>
 	<a href="https://x.com/Arpit_Sadhukhan">
 		<img src="https://img.shields.io/badge/X-informational?style=social&logo=X"/>
+		<a href="https://discordid.netlify.app/?id=423194865149673502">
+        <img src="https://img.shields.io/badge/Discord-informational?style=social&logo=Discord"/>
 	</a>
 </p>
 <img src="https://discord.c99.nl/widget/theme-3/423194865149673502.png" alt="Discord Banner" />
