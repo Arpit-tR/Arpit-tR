@@ -1,4 +1,4 @@
-
+<a href="https://github.com/Arpit-tR"> 
 <div align="center">
 
 <p> <img src="./Arpit.png" alt="Header" style="height: 500px, width: 600px"/> </p>
@@ -56,7 +56,7 @@ My Top 3 Things
 	</a>
 	<a href="https://x.com/Arpit_Sadhukhan">
 		<img src="https://img.shields.io/badge/X-informational?style=social&logo=X"/>
-		<a href="https://discordid.netlify.app/?id=423194865149673502">
+	<a href="https://discordid.netlify.app/?id=423194865149673502">
         <img src="https://img.shields.io/badge/Discord-informational?style=social&logo=Discord"/>
 	</a>
 </p>
