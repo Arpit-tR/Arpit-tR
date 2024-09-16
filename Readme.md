@@ -1,7 +1,7 @@
 <a href="https://github.com/Arpit-tR"> 
 <div align="center">
 
-<p> <img src="./Arpit.png" alt="Header" style="height: 500px, width: 600px"/> </p>
+<p href="https://github.com/Arpit-tR" > <img src="./Arpit.png" alt="Header" style="height: 500px, width: 600px"/> </p>
 
 ```swift
 Hello There, I'm Arpit.
