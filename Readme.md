@@ -1,4 +1,4 @@
-<a href="https://github.com/Arpit-tR"> 
+<a href="https://github.com/Arpit-tR" target="_blank" > 
 <div align="center">
 
 <p> <img src="./Arpit.png" alt="Header" style="height: 500px, width: 600px"/> </p>
