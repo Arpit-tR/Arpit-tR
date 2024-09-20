@@ -43,20 +43,20 @@ My Top 3 Things
 
 ## Socials
 <p align="center">
-	<a href="https://www.linkedin.com/in/arpit-sadhukhan/">
+	<a href="https://www.linkedin.com/in/arpit-sadhukhan/"  target="_blank" >
 		<img src="https://img.shields.io/badge/Linked_In-informational?style=social&logo=linkedin"/>
-	<a href="https://www.hackerrank.com/profile/arpit_sadhukhan">
+	<a href="https://www.hackerrank.com/profile/arpit_sadhukhan" target="_blank" >
 		<img src="https://img.shields.io/badge/Hacker Rank-informational?style=social&logo=HackerRank"/>
 	</a>
-	<a href="https://www.reddit.com/user/The_Rider23/">
+	<a href="https://www.reddit.com/user/The_Rider23/" target="_blank" >
 		<img src="https://img.shields.io/badge/Reddit-informational?style=social&logo=reddit"/>
 	</a>
-	<a href="https://www.github.com/Arpit-tR/">
+	<a href="https://www.github.com/Arpit-tR/" target="_blank" >
 		<img src="https://img.shields.io/badge/Github-informational?style=social&logo=github"/>
 	</a>
-	<a href="https://x.com/Arpit_Sadhukhan">
+	<a href="https://x.com/Arpit_Sadhukhan"target="_blank" >
 		<img src="https://img.shields.io/badge/X-informational?style=social&logo=X"/>
-	<a href="https://discordid.netlify.app/?id=423194865149673502">
+	<a href="https://discordid.netlify.app/?id=423194865149673502" target="_blank" >
         <img src="https://img.shields.io/badge/Discord-informational?style=social&logo=Discord"/>
 	</a>
 </p>
